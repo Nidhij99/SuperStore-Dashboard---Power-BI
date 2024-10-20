@@ -1,4 +1,4 @@
-# SuperStore-Dashboard---Power-BI
+# SuperStore-Dashboard - Power-BI
 
 ## Project Overview
 This Power BI dashboard provides a comprehensive analysis of sales, profit, and returns for a global superstore dataset. 
@@ -48,6 +48,7 @@ Returns Management:
 This dashboard serves as a powerful tool for analyzing business performance across multiple dimensions, helping businesses focus on key areas like customer behavior, regional trends, and product profitability. 
 The insights derived can lead to strategic decision-making and improved business operations.
 
-## Dashboard image -: ![image](https://github.com/user-attachments/assets/65f90aaa-3eed-4006-8e5f-1171642dca5a)
+## Dashboard image -: ![Capture](https://github.com/user-attachments/assets/939582cb-a269-46b4-95d7-ebc41ba97f62)
+
 
 
