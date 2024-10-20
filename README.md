@@ -48,5 +48,6 @@ Returns Management:
 This dashboard serves as a powerful tool for analyzing business performance across multiple dimensions, helping businesses focus on key areas like customer behavior, regional trends, and product profitability. 
 The insights derived can lead to strategic decision-making and improved business operations.
 
-## Dashboard Link : ![image](https://github.com/user-attachments/assets/6f446f42-353c-4ada-a239-c97eb29216f6)
+## Dashboard image -: ![image](https://github.com/user-attachments/assets/65f90aaa-3eed-4006-8e5f-1171642dca5a)
+
 
